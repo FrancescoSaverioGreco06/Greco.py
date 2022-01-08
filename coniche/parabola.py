@@ -14,10 +14,10 @@ class parabola:
 
     def getB(self):
         return self.__b
-    
+
     def getC(self):
         return self.__c
-    
+
 
     def fuoco(self, asse_simmetria = "x"):
         if (asse_simmetria == "x"):
